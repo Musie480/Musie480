@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Musie Hadush
+- 👋 Hi, I’m samuel getachew
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning software engineering in Wachemo University
 - 💞️ I’m looking to collaborate on ...
