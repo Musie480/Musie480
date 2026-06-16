@@ -1,94 +1,77 @@
-# <h1><img src="https://raw.githubusercontent.com/MartinSchoeler/MartinSchoeler/master/wave.gif" width="30px"> I'm Musie Hadush</h1>
-
-<h3>Full-Stack & Mobile Engineer | Specialized in Scalable Product Architecture</h3>
-
-<p>
-  <a href="https://www.linkedin.com/in/musie480" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/musie480" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:musiehadush4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Musie%20Hadush&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%26%20Mobile%20Architect&descSize=25&descAlignY=55" width="100%" />
 </p>
+
+## 💠 Beyond Code
+**Transforming complex business logic into seamless user experiences.**  
+I don't just write code; I architect solutions. Based in Addis Ababa, Ethiopia, I help global clients and startups build scalable, performance-driven digital products that solve real-world problems.
 
 ---
 
-### 🚀 Professional Summary
+### 🛠️ The Tech Ecosystem
 
-I am a **Senior Full-Stack Developer** based in Addis Ababa, Ethiopia, with a passion for building high-performance web and mobile applications. I specialize in the **MERN & React Native** ecosystem, helping startups and businesses transform complex ideas into intuitive, scalable digital products.
+<div align="center">
 
-- 🏗️ **Architecting** end-to-end solutions for EdTech, FinTech, and SaaS environments.
-- 📱 **Mobile First**: Expert in crafting seamless iOS/Android experiences with React Native & Expo.
-- ⚙️ **Backend Engineering**: Designing robust APIs with Node.js, Express, and modern ORMs (Prisma/Sequelize).
-- 🧠 **AI Integration**: Implementing LLMs and intelligent workflow automation into modern apps.
+| **Frontend & Mobile** | **Backend & Architecture** | **Database & Cloud** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,figma" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,prisma" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,firebase" /> |
+| React • Expo • TS • Tailwind | Node • Express • Microservices | SQL • NoSQL • Containers |
 
----
-
-### 🛠️ The Arsenal
-
-#### **Core Development**
-<p>
-  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/react_native-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-</p>
-
-#### **Database & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-#### **Design & Styling**
-<p>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/framer--motion-black?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
+</div>
 
 ---
 
-### 🌟 What I Build
+### 💎 Core Competencies
 
-| Focus Area | Capability |
-| :--- | :--- |
-| **FinTech Integrations** | Secure payment gateway implementations (Arifpay, Chapa, Stripe). |
-| **EdTech Ecosystems** | Building learning management systems with AI-driven study planners. |
-| **Real-time Systems** | Implementing WebSockets (Socket.io) for live tracking and chat. |
-| **Enterprise Dashboards** | Creating complex, performant data visualizations and management tools. |
+<details open>
+<summary><b>📱 Mobile Excellence</b></summary>
+Developing robust, native-feel applications using React Native and Expo. Seamless deployment for both iOS and Android with a single codebase.
+</details>
+
+<details open>
+<summary><b>🌐 Full-Stack Web</b></summary>
+Building modern, SEO-optimized web applications with Next.js and React. Focusing on accessibility, performance, and responsive design.
+</details>
+
+<details open>
+<summary><b>🛡️ Scalable Backends</b></summary>
+Designing secure, high-concurrency APIs with Node.js and Prisma. Expert in payment integrations (FinTech) and real-time communication systems.
+</details>
 
 ---
 
-### 📈 GitHub Ecosystem
+### 📊 Portfolio Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musie480&show_icons=true&theme=transparent&title_color=0077B5&icon_color=0077B5&text_color=333" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musie480&theme=transparent&stroke=0077B5&fire=0077B5&ring=0077B5" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=musie480&show_icons=true&theme=omni&border_radius=10" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musie480&layout=compact&theme=omni&border_radius=10" height="180px" />
+</p>
+
+---
+
+### 🤝 Let's Build Something Great
+
+Are you looking for a dedicated engineer to bring your MVP to life or scale your existing platform?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/musie480">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:musiehadush4@gmail.com">
+    <img src="https://img.shields.io/badge/CONSULT_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/musie480">
+    <img src="https://img.shields.io/badge/NETWORK-F35369?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=musie480&theme=flat&no-bg=true&column=7&margin-w=15" width="100%" />
+  <i>"Code is poetry when it solves a problem."</i>
 </p>
-
----
-
-### ✨ Let's Connect
-
-I'm always open to discussing **new projects, creative ideas, or opportunities** to be part of your vision.
-
-- 💬 Ask me about **React, React Native, or Backend Architecture**.
-- 📫 Reach out via **[LinkedIn](https://www.linkedin.com/in/musie480)** or **[Instagram](https://www.instagram.com/musie480)**.
-- ⚡ Fun fact: I believe great code is as much about empathy for the user as it is about logic.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&flip=true" width="100%" />
 </p>
+
