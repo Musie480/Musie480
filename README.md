@@ -1,10 +1,14 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Musie%20Hadush&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%26%20Mobile%20Architect&descSize=25&descAlignY=55" width="100%" />
-</p>
+<div align="center">
 
-## 💠 Beyond Code
-**Transforming complex business logic into seamless user experiences.**  
-I don't just write code; I architect solutions. Based in Addis Ababa, Ethiopia, I help global clients and startups build scalable, performance-driven digital products that solve real-world problems.
+# ⚡ Musie Hadush
+### Full-Stack Engineer • Mobile Architect • Problem Solver
+
+---
+
+**Building digital products that bridge the gap between complex ideas and the people who use them.**  
+I’m a developer based in Addis Ababa with a focus on high-performance web and mobile apps. I don’t just ship features; I focus on building reliable systems that help businesses scale without the technical debt.
+
+</div>
 
 ---
 
@@ -21,29 +25,17 @@ I don't just write code; I architect solutions. Based in Addis Ababa, Ethiopia, 
 
 ---
 
-### 💎 Core Competencies
+### 💎 What I Do Best
 
-<details open>
-<summary><b>📱 Mobile Excellence</b></summary>
-Developing robust, native-feel applications using React Native and Expo. Seamless deployment for both iOS and Android with a single codebase.
-</details>
-
-<details open>
-<summary><b>🌐 Full-Stack Web</b></summary>
-Building modern, SEO-optimized web applications with Next.js and React. Focusing on accessibility, performance, and responsive design.
-</details>
-
-<details open>
-<summary><b>🛡️ Scalable Backends</b></summary>
-Designing secure, high-concurrency APIs with Node.js and Prisma. Expert in payment integrations (FinTech) and real-time communication systems.
-</details>
+- **Multi-Platform Mobile**: Clean, native-performance apps for iOS & Android via React Native.
+- **Modern Web**: Fast, SEO-ready interfaces built with Next.js and Tailwind.
+- **Robust Systems**: Secure APIs and payment integrations that handle heavy traffic with ease.
 
 ---
 
-### 📊 Portfolio Insights
+### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musie480&show_icons=true&theme=omni&border_radius=10" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musie480&layout=compact&theme=omni&border_radius=10" height="180px" />
 </p>
 
@@ -58,7 +50,7 @@ Are you looking for a dedicated engineer to bring your MVP to life or scale your
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:musiehadush4@gmail.com">
+  <a href="mailto:musie480@gmail.com">
     <img src="https://img.shields.io/badge/CONSULT_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
