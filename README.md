@@ -70,13 +70,13 @@ I'm a **Software Engineering graduate** based in Jimma, Ethiopia, building high-
 
 <div align="center">
 
-|  | Capability | Examples |
-|:---:|:---|:---|
-| 🌐 | **Web Applications** | SaaS platforms · E-commerce · Dashboards · Portals |
-| 📱 | **Mobile (iOS & Android)** | React Native · Real-time · Location · Notifications |
-| 🤖 | **AI & Automation** | ML features · Resume parsing · Smart recommendations |
-| 🎨 | **UI/UX Design** | Figma → Pixel-perfect production builds |
-| 🔐 | **Auth & Payments** | Stripe · PayPal · OAuth · JWT · Role-based access |
+| Capability | Examples |
+|:---|:---|
+| **Web Applications** | SaaS platforms · E-commerce · Dashboards · Portals |
+| **Mobile (iOS & Android)** | React Native · Real-time · Location-based · Push notifications |
+| **AI & Automation** | ML features · Resume parsing · Smart recommendations · Data analysis |
+| **UI/UX Design** | Figma to production · Pixel-perfect builds · Responsive design |
+| **Auth & Payments** | Stripe · PayPal · OAuth · JWT · Role-based access systems |
 
 </div>
 
@@ -86,8 +86,6 @@ I'm a **Software Engineering graduate** based in Jimma, Ethiopia, building high-
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musie480&layout=compact&theme=tokyonight&border_radius=12&hide_border=false" height="165" />
-&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=musie480&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&include_all_commits=true&count_private=true" height="165" />
 
 <br /><br />
@@ -111,10 +109,6 @@ If you need someone who can take a project from **idea → production** — cove
 <a href="mailto:musie480@gmail.com">
   <img src="https://img.shields.io/badge/Email%20Me-musie480%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" />
 </a>
-
-<br /><br />
-
-<sub>📍 Jimma, Ethiopia &nbsp;·&nbsp; 🎓 Software Engineering Graduate &nbsp;·&nbsp; ⏰ EAT (UTC+3)</sub>
 
 </div>
 
