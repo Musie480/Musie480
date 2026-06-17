@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ Musie Hadush
-### Full-Stack Engineer • Mobile Architect • Problem Solver
+### Full-Stack Developer (React, Vue, Express, Django, PHP) | Software Engineering Graduate | Available on Upwork
 
 ---
 
