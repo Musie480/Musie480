@@ -111,5 +111,5 @@ If you need someone who can take a project from **idea → production** — cove
 </a>
 
 </div>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=musie480)](https://git.io/streak-stats)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=120&section=footer&reversal=false" width="100%" />
