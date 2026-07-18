@@ -26,7 +26,7 @@
 
 <br />
 
-## `01` about.md
+## `01` about
 
 I'm a **software engineering graduate** based in Jimma, Ethiopia, building web apps, mobile apps, and AI-powered products for clients around the world. I care about performance, thoughtful design, and code that still holds up once a product starts to scale.
 
