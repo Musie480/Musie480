@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 MUSIE HADUSH
-### Full-Stack Software Architect & Founder
+### Full-Stack Software Architect | Founder
 
 ---
 **Building robust, scalable, and production-ready systems for a global audience.**  
